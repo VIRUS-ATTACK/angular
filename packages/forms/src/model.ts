@@ -2087,7 +2087,7 @@ export class FormArray extends AbstractControl {
    * console.log(arr.length);  // 0
    * ```
    *
-   * It's a simpler and more efficient alternative to removing all elements one by one:
+   * It's a simpler and more efficient alternative to remove all elements one by one:
    *
    * ```ts
    * const arr = new FormArray([
